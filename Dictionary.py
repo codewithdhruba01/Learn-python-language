@@ -24,6 +24,7 @@ print(info)
 """
 
 #Update a Dictionary
+"""
 info = {
     "name":"Dhrubaraj",
      "age": 22,
@@ -34,3 +35,4 @@ info["name"]= "Dhrubaraj Pati", #ya hoga update pati add hoga
 info["surname"]= "Pati" #isme ak key valu add hoga Surname pati
 
 print(info)
+"""
