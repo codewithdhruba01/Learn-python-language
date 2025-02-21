@@ -38,36 +38,45 @@ Python is a high-level, interpreted programming language known for its simplicit
 - History and development
 - Installation and setup
 
+
 ## 2. Python Syntax & Basics
 - Structure of Python code
 - Indentation and comments
 - Basic Input/Output operations
 
+
 ## 3. Variables & Data Types
 - Integers, floats, strings, lists, tuples, dictionaries
 - Type conversion
 
+
 ## 4. Operators in Python
 - Arithmetic, comparison, logical, bitwise, identity, and membership operators
+
 
 ## 5. Control Flow Statements
 - Conditional statements (`if`, `elif`, `else`)
 - Looping statements (`for`, `while`, `break`, `continue`, `pass`)
+
 
 ## 6. Functions & Modules
 - Defining and calling functions
 - Arguments and return values
 - Importing built-in and custom modules
 
+
 ## 7. Strings & String Manipulation
 - String slicing, concatenation, formatting, and built-in methods
+
 
 ## 8. Lists, Tuples & Dictionaries
 - Mutable and immutable data structures
 - Dictionary key-value pairs
 
+
 ## 9. Sets in Python
 - Set operations: union, intersection, difference
+
 
 ## 10. File Handling
 - Reading and writing files
