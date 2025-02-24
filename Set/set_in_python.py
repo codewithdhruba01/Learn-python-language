@@ -58,18 +58,3 @@ example1 = {1,2,3,4}
 example2 = {3,4,5,6,7}
 print(example1.intersection(example2))    #do velu ko dekhega pahela same/common velu ko print karega
 """
-
-
-#Practice Question 1
-
-marks = {}
-x = int(input("Bengali Marks : "))
-marks.update({"Bengali": x})
-x = int(input("English Marks : "))
-marks.update({"English": x})
-x = int(input("Math Marks : "))
-marks.update({"Math": x})
-x = int(input("Java Marks : "))
-marks.update({"Java": x})
-print(marks)
-
