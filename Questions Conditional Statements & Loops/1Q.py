@@ -22,4 +22,12 @@ if x == 0 :
 else :
     print(x,"Not a Zero")
 """
+#11)Write a Python program to check if a given number is positive, negative, or zero
+num = int(input("Enter the Number :"))
+if num > 0:
+    print(num,"is a Positive number :")
+elif num < 0:
+    print(num,"is a Negative number :")
+else:
+    print("Zero")
 
