@@ -1,0 +1,3 @@
+Open Read & Close file
+We have to open a file
+before reading or writing
