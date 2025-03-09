@@ -1,4 +1,4 @@
-# Python Lists - Full Explanation
+# Python Lists
 
 A **list** in Python is a built-in data structure that allows you to store multiple items in a single variable. Lists are **ordered, mutable (modifiable), and allow duplicate values**.
 
