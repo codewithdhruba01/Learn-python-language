@@ -45,3 +45,8 @@ list=[2, 1, 3]
 list.insert(1, 5) #iske matlab index 1 ke jaga pe 5 add hoga and baki sab aliment same rahega
 print(list)  #print hoga [2, 5, 1, 3]
 """
+import copy
+list1 = [[1, 2], [3, 4]]
+list2 = copy.deepcopy(list1)
+list1[0][0] = 99
+print(list2)  # Output: [[1, 2], [3, 4]]
