@@ -18,5 +18,9 @@
 13. [File Input and Output (I/O) in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/13_File_InputOutput)
 
 ---
+## Author
 
+[![GitHub](https://img.shields.io/badge/GitHub_codewithdhruba01-%23121011.svg?logo=github&logoColor=white)](https://github.com/codewithdhruba01)
+
+---
 This README provides a structured guide to learning Python from scratch to an advanced level. Happy Coding! 🚀
