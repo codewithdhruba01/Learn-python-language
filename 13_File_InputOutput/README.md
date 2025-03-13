@@ -11,7 +11,7 @@ File handling in Python is essential for reading and writing data to files. Pyth
 
 ### Syntax:
 ```python
-file = open("filename", "mode")
+file = open("filename", "mode") 
 ```
 - `"filename"`: Name of the file to be opened.
 - `"mode"`: Mode in which the file should be opened.
@@ -29,7 +29,9 @@ file = open("filename", "mode")
 
 ---
 
-## 2. Reading a File
+<img alt="files" height="200" src="./images/ExWNT-white-bg.png" width="350"/>
+
+## 2. Reads Entire File
 To read a file, we use the `read()` method or `readline()` / `readlines()`.
 
 ### Example: Reading an entire file

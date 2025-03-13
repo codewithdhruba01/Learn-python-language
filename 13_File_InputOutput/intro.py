@@ -10,3 +10,9 @@ data = f.read()
 print(data)
 print(type(data))
 f.close()
+
+
+f = open("demo.txt", "r")
+data = f.read(10) # particular 5 char he print karega
+print(data)
+f.close()
