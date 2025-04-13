@@ -1,14 +1,5 @@
-# Python Introduction
-## What is a program?
-A ***program*** is a sequence of instructions that specifies how to perform a computation. The
-computation might be something mathematical, such as solving a system of equations or
-finding the roots of a polynomial, but it can also be a symbolic computation, such as searching and replacing text in a document or something graphical, like processing an image or
-playing a video.
-
-- ***Input:*** Get data from the keyboard, a file, the network, or some other device.
-- ***Output:*** Display data on the screen, save it in a file, send it over the network, etc.
-- ***Math:*** Perform basic mathematical operations like addition and multiplication.
-- ***Conditional execution:*** Check for certain conditions and run the appropriate code.
+## What is a python?
+**Python** is a **high-level, interprited, interactive,** and **Obeject oriented** scripting language.Its readability and ease of use, it was created by **Guido van Rossum,** and **released in 1991.**
 
 ---
 ### It is used for:
@@ -36,6 +27,7 @@ playing a video.
 - 🔹 The latest stable version is **Python 3** (recommended for use).
 - 🔹 Python 2 is still used but only receives security updates.
 - 🔹 Python code can be written in any **text editor** or in an **IDE** like:
+  - **VSCode**
   - **Thonny**
   - **PyCharm**
   - **NetBeans**
