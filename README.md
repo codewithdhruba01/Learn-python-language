@@ -1,8 +1,12 @@
-# Python Programming Language Overview
+# Learn Python Language
 
----
+Welcome to [**Learn Python Language**](https://github.com/codewithdhruba01/Learn-python-language)!
 
-## Table of Contents
+This repository is part of my personal Python learning journey, created to help beginners understand Python from the ground up. Whether you're just starting or revising core concepts, this repo is packed with helpful examples, exercises, and mini-projects.
+
+🧠 **Inspired by continuous practice and real-world application.**
+
+## What You'll Learn
 1. [Introduction to Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/01_Introduction)
 2. [Operators in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/02_Operator)
 3. [Variables & Data Types](https://github.com/codewithdhruba01/Learn-python-language/tree/master/03_Variable_DataType)
@@ -16,11 +20,36 @@
 11. [Function in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/11_Functions)
 12. [Recursion in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/12_Recursion)
 13. [File Input and Output (I/O) in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/13_File_InputOutput)
+14. [OOPS in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/14_OOPS)
+15. [Inprotant Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Inprotant_Question)
+16. [Conditional Statements & Loops Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Questions%20Conditional%20Statements%20%26%20Loops)
+17. [Interview Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Interview-Questions)
 
 ---
+
+## 🛠 How to Use
+
+
+1. Clone the repository:
+
+   ```bash
+
+   git clone https://github.com/codewithdhruba01/Learn-python-language.git
+
+   ```
+
+2. Navigate to any topic folder.
+
+3. Run `.py` files to understand the concept.
+
+4. Edit and experiment on your own for better learning.
+
+---
+## ⭐ Like this Repo
+
+If this repo helps you, don’t forget to **star** it.  
+Feel free to fork, suggest improvements.
+
 ## Author
 
-[![GitHub](https://img.shields.io/badge/GitHub_codewithdhruba01-%23121011.svg?logo=github&logoColor=white)](https://github.com/codewithdhruba01)
-
----
-This README provides a structured guide to learning Python from scratch to an advanced level. Happy Coding! 🚀
+[![GitHub](https://img.shields.io/badge/GitHub_DhrubarajPati-%23121011.svg?logo=github&logoColor=white)](https://github.com/codewithdhruba01)
