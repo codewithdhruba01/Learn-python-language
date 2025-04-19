@@ -76,17 +76,130 @@ print(text * 3)  # Output: Hello Hello Hello
 ## 4. String Methods
 
 Python provides several built-in methods to manipulate strings.
+the most commonly used **Python String Methods** along with examples for better understanding.
 
-| Method | Description | Example |
-|--------|------------|---------|
-| `lower()` | Converts to lowercase | `"PYTHON".lower()` → `"python"` |
-| `upper()` | Converts to uppercase | `"python".upper()` → `"PYTHON"` |
-| `strip()` | Removes spaces from both ends | `" Hello ".strip()` → `"Hello"` |
-| `replace(old, new)` | Replaces a substring | `"Hello".replace("H", "J")` → `"Jello"` |
-| `split(delimiter)` | Splits into a list | `"a,b,c".split(",")` → `["a", "b", "c"]` |
-| `join(iterable)` | Joins elements | `".".join(["a", "b", "c"])` → `"a.b.c"` |
-| `find(substring)` | Finds substring index | `"Hello".find("l")` → `2` |
-| `count(substring)` | Counts occurrences | `"Hello".count("l")` → `2` |
+---
+
+### 🔹 1. `upper()`
+**Converts all characters to uppercase.**
+
+```python
+text = "hello world"
+print(text.upper())   # Output: HELLO WORLD
+```
+
+
+### 🔹 2. `lower()`
+**Converts all characters to lowercase.**
+
+```python
+text = "HELLO WORLD"
+print(text.lower())   # Output: hello world
+```
+
+---
+
+### 🔹 3. `title()`
+**Capitalizes the first letter of each word.**
+
+```python
+text = "hello world"
+print(text.title())   # Output: Hello World
+```
+
+---
+
+### 🔹 4. `capitalize()`
+**Capitalizes only the first letter of the string.**
+
+```python
+text = "hello world"
+print(text.capitalize())   # Output: Hello world
+```
+
+---
+
+### 🔹 5. `strip()`
+**Removes leading and trailing whitespace or characters.**
+
+```python
+text = "   hello world   "
+print(text.strip())   # Output: "hello world"
+```
+
+---
+
+### 🔹 6. `replace(old, new)`
+**Replaces a substring with another.**
+
+```python
+text = "I love Java"
+print(text.replace("Java", "Python"))   # Output: I love Python
+```
+
+---
+
+### 🔹 7. `find(substring)`
+**Returns the index of the first occurrence of the substring. Returns -1 if not found.**
+
+```python
+text = "hello world"
+print(text.find("world"))   # Output: 6
+```
+
+---
+
+### 🔹 8. `split(separator)`
+**Splits the string into a list based on the separator.**
+
+```python
+text = "apple,banana,mango"
+print(text.split(","))   # Output: ['apple', 'banana', 'mango']
+```
+
+---
+
+### 🔹 9. `join(iterable)`
+**Joins elements of an iterable (like a list) into a string.**
+
+```python
+words = ['Hello', 'World']
+print(" ".join(words))   # Output: Hello World
+```
+
+---
+
+### 🔹 10. `startswith(substring)` / `endswith(substring)`
+**Checks if a string starts or ends with the given substring.**
+
+```python
+text = "python programming"
+print(text.startswith("python"))  # True
+print(text.endswith("ing"))       # True
+```
+
+---
+
+### 🔹 11. `isalpha()`
+**Checks if all characters in the string are alphabets.**
+
+```python
+text = "hello"
+print(text.isalpha())  # True
+
+text2 = "hello123"
+print(text2.isalpha())  # False
+```
+
+---
+
+### 🔹 12. `isdigit()`
+**Checks if all characters in the string are digits.**
+
+```python
+num = "12345"
+print(num.isdigit())  # True
+```
 
 ---
 
