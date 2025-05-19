@@ -1,4 +1,6 @@
-## Installing Python on Linux (Ubuntu/Debian)
+## Python Installation Guide Linux System (Ubuntu/Debian)
+
+![Python Cover Photo](Images/linuxCover.png)
 
 ### Step 1: Update Packages
 
@@ -6,7 +8,9 @@
 sudo apt update
 ```
 
-![Linux Update](screenshots/linux_update.png)
+<p>
+  <img src="Images/update.png" alt="Download Python" width="500">
+</p>
 
 ---
 
@@ -16,7 +20,9 @@ sudo apt update
 sudo apt install python3
 ```
 
-![Linux Install Python](screenshots/linux_install_python.png)
+<p>
+  <img src="Images/install.png" alt="Download Python" width="500">
+</p>
 
 ---
 
@@ -24,8 +30,19 @@ sudo apt install python3
 
 ```bash
 python3 --version
+python3 -V
 ```
 
-![Linux Verify Python](screenshots/linux_verify_python.png)
+<p>
+  <img src="Images/ VerifyPython.png" alt="Download Python" width="500">
+</p>
 
 ---
+
+### All Set ✅
+
+You’ve successfully installed Python on your system. **Happy coding!**
+
+---
+
+[Introduction to Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/01_Introduction)

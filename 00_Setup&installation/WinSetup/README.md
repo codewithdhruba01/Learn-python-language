@@ -1,6 +1,6 @@
 ## Python Installation Guide Windows System
 
-  <img src="images/winCover.jpg" alt="Python on Windows" width= "500" height="250">
+![Python Cover Photo](images/winCover.png)
 
 ---
 
