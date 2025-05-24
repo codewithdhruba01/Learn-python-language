@@ -9,6 +9,7 @@ This repository is part of my personal Python learning journey, created to help 
 🧠 **Inspired by continuous practice and real-world application.**
 
 ## What You'll Learn
+0. [Python Setup & Installation](https://github.com/codewithdhruba01/Learn-python-language/tree/master/00_Setup%26installation)
 1. [Introduction to Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/01_Introduction)
 2. [Operators in Python](https://github.com/codewithdhruba01/Learn-python-language/tree/master/02_Operator)
 3. [Variables & Data Types](https://github.com/codewithdhruba01/Learn-python-language/tree/master/03_Variable_DataType)
@@ -26,6 +27,8 @@ This repository is part of my personal Python learning journey, created to help 
 15. [Inprotant Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Inprotant_Question)
 16. [Conditional Statements & Loops Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Questions%20Conditional%20Statements%20%26%20Loops)
 17. [Interview Questions](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Interview-Questions)
+18. [Project](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Project)
+19. [Setup VScode](https://github.com/codewithdhruba01/Learn-python-language/tree/master/vscode)
 
 ---
 
@@ -47,10 +50,7 @@ This repository is part of my personal Python learning journey, created to help 
 4. Edit and experiment on your own for better learning.
 
 ---
-## ⭐ Like this Repo
-
-If this repo helps you, don’t forget to **star** it.  
-Feel free to fork, suggest improvements.
+⭐ If you like this repo, star it on GitHub — it helps a lot!
 
 ## Author
 
