@@ -2,7 +2,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/codewithdhruba01/Learn-python-language)  ![GitHub License](https://img.shields.io/github/license/codewithdhruba01/Learn-python-language)
  ![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/author/codewithdhruba01/Learn-python-language/1) ![GitHub watchers](https://img.shields.io/github/watchers/codewithdhruba01/Learn-python-language) ![GitHub forks](https://img.shields.io/github/forks/codewithdhruba01/Learn-python-language)
 
-
+ # index
 
 > [!TIP]
 > Welcome to [**Learn Python Language**](https://github.com/codewithdhruba01/Learn-python-language) Read, Practice, Code!
@@ -43,7 +43,6 @@ This repository is part of **My Python learning journey,** created to help begin
 
 ---
 
-[**Back To Top ⬆️**](#index)
 
 # 📘 DSA Practice Sheets in Python
 
@@ -161,8 +160,6 @@ This repository is part of **My Python learning journey,** created to help begin
 ## Contributing
 
 If you are interested in writing code to fix issues, please see [How to Contribute](https://github.com/codewithdhruba01/Learn-python-language/blob/master/CONTRIBUTING.md) in the doc.
-
-[**Back To Top ⬆️**](#index)
 
 ## Author
 
