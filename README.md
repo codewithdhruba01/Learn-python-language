@@ -2,8 +2,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/codewithdhruba01/Learn-python-language)  ![GitHub License](https://img.shields.io/github/license/codewithdhruba01/Learn-python-language)
  ![GitHub issue/pull request detail](https://img.shields.io/github/issues/detail/author/codewithdhruba01/Learn-python-language/1) ![GitHub watchers](https://img.shields.io/github/watchers/codewithdhruba01/Learn-python-language) ![GitHub forks](https://img.shields.io/github/forks/codewithdhruba01/Learn-python-language)
 
- # index
-
 > [!TIP]
 > Welcome to [**Learn Python Language**](https://github.com/codewithdhruba01/Learn-python-language) Read, Practice, Code!
 
