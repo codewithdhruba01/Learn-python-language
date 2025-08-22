@@ -159,8 +159,16 @@ This repository is part of **My Python learning journey,** created to help begin
 
 If you are interested in writing code to fix issues, please see [How to Contribute](https://github.com/codewithdhruba01/Learn-python-language/blob/master/CONTRIBUTING.md) in the doc.
 
-## Author
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub_DhrubarajPati-%23121011.svg?logo=github&logoColor=white)](https://github.com/codewithdhruba01)
+<div align="center">
+   
+⭐ If you find this project useful, please give it a star! ⭐
+
+**Built with ❤️ by Dhrubaraj Pati for developers**
+
+[Website](https://codewithdhruba.netlify.app/) • [GitHub](https://github.com/codewithdhruba01) • [Twitter](https://x.com/codewithdhruba) • [Linkedin](https://www.linkedin.com/in/dhrubaraj-pati/)
+
+</div>
 
 
