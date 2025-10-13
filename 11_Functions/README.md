@@ -288,3 +288,43 @@ Before function call
 Hello!
 After function call
 ```
+
+---
+
+## Practice Question
+
+###  **Basic Level**
+
+1. **Sum of Two Numbers**
+   ( Ek function likho `add_numbers(a, b)` jo do numbers ka sum return kare.)
+
+2. **Factorial Finder**
+   ( Ek function likho `factorial(n)` jo given number ka factorial return kare. (e.g., 5 → 120) )
+
+3. **Even or Odd Checker**
+   ( Ek function likho `check_even_odd(num)` jo check kare number even hai ya odd, aur uske according print kare. )
+
+4. **Palindrome Checker**
+   ( Ek function likho `is_palindrome(string)` jo check kare ki given string palindrome hai ya nahi. (e.g., “madam” → True) )
+
+5. **Maximum of Three Numbers**
+   ( Ek function likho `max_of_three(a, b, c)` jo teeno numbers me se sabse bada number return kare. )
+
+---
+
+###  **Intermediate Level**
+
+6. **Fibonacci Series Generator**
+   ( Ek function likho `fibonacci(n)` jo first `n` terms of Fibonacci series print kare. )
+
+7. **Count Vowels**
+   ( Ek function likho `count_vowels(text)` jo given string me total vowels (a, e, i, o, u) count kare aur return kare. )
+
+8. **Prime Number Checker**
+   ( Ek function likho `is_prime(num)` jo check kare ki number prime hai ya nahi. )
+
+9. **Reverse a String (without using slicing)**
+   ( Ek function likho `reverse_string(text)` jo string ko reverse karke return kare — slicing (`[::-1]`) ka use nahi karna. )
+
+10. **List Sum using Recursion**
+    ( Ek recursive function likho `recursive_sum(lst)` jo list ke sare elements ka sum return kare bina loop ke. )
