@@ -1,4 +1,4 @@
-# Python Loops -
+# Python Loops
 
 Loops in Python are used to execute a block of code multiple times. Instead of writing the same code repeatedly, loops help automate repetitive tasks. Python provides two main types of loops:
 ## There are two types of loops in Python
@@ -175,6 +175,118 @@ Write a `while` loop that finds and prints the first multiple of 7 greater than 
 Write a program that uses a `for` loop to count the number of vowels in a given string.
 
 
+### 6. Prime Numbers in a Range
+
+Input: Start = 10, End = 50
+Task: Use loops to print all the prime numbers in the given range.
+Output:
+
+```
+11 13 17 19 23 29 31 37 41 43 47
+```
+
+
+### 7. Fibonacci Series (n terms)
+
+Input: n = 10
+Task: Use loops to generate the Fibonacci series (0, 1, 1, 2, 3, 5, …).
+Output:
+
+```
+0 1 1 2 3 5 8 13 21 34
+```
+
+
+### 8. Palindrome Number Check (Without Converting to String)
+
+Input: 121
+Task: Use a while loop to reverse the number and check if it is a palindrome.
+Output:
+
+```
+121 is a palindrome number
+```
+
+
+### 9. Pattern Printing — Pyramid
+
+Input: n = 5
+Output:
+
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+Task: Use nested for loops to print a center-aligned pyramid pattern.
+
+
+### 10. Armstrong Number Check (n digits)
+
+Input: 153
+Task: Check whether the number is an Armstrong number or not.
+(Armstrong: 1³ + 5³ + 3³ = 153)
+Output:
+
+```
+153 is an Armstrong number
+```
+
+
+### 11. Factorial Without Using math Module
+
+Input: n = 10
+Task: Use a for or while loop to calculate the factorial of the number without using the math module.
+
+
+### 7. Multiplication Table — 1 to 10
+
+Task: Use nested loops to print the multiplication tables from 1 to 10.
+Example:
+
+```
+1 x 1 = 1
+1 x 2 = 2
+...
+10 x 10 = 100
+```
+
+
+### 12. Sum of Digits Until Single Digit
+
+Input: 9875
+Task: Use a while loop to repeatedly sum the digits of the number until you get a single digit.
+(9+8+7+5 = 29 → 2+9 = 11 → 1+1 = 2)
+Output:
+
+```
+2
+```
+
+
+### 13. Reverse a String Without Using Slice or reversed()
+
+Input: Dhruba
+Task: Use a loop to reverse the string.
+Output:
+
+```
+aburhD
+```
+
+
+### 13. Find GCD Using Loops (Without math.gcd)
+
+Input: num1 = 56, num2 = 98
+Task: Use for or while loops to find the GCD (Greatest Common Divisor) of the two numbers.
+Output:
+
+```
+GCD = 14
+```
 
 ## Conclusion
 - Use `for` loops when iterating over a sequence (lists, strings, tuples, etc.).
