@@ -157,6 +157,48 @@ b.start()  # Output: Bike starts with a button
 
 ---
 
+### 1. Create a Class and Object
+
+Task: Create a class `Car` with attributes like `brand` and `model`. Create an object of the class and print its details.
+
+### 2. Class with Method
+
+Task: Create a class `Calculator` with methods `add`, `subtract`, `multiply`, and `divide`. Create an object and call each method with example numbers.
+
+### 3. Constructor (`__init__`) Usage
+
+Task: Create a class `Student` with a constructor that takes `name` and `age` as arguments. Create multiple objects and print their information.
+
+### 4. Class with Class Variable and Instance Variable
+
+Task: Create a class `Employee` with a **class variable** `company_name` and **instance variables** `name` and `salary`. Create multiple objects and show the difference between class and instance variables.
+
+### 5. Inheritance (Single Level)
+
+Task: Create a base class `Person` with attributes `name` and `age`. Derive a class `Teacher` that adds an attribute `subject`. Create an object of `Teacher` and print all details using inheritance.
+
+### 6. Multiple Inheritance
+
+Task: Create two parent classes `A` and `B`, each having a different method. Create a child class `C` that inherits both `A` and `B`, and call methods from both parents using an object of `C`.
+
+### 7. Method Overriding
+
+Task: Create a parent class `Animal` with a method `speak()`. Create a child class `Dog` that overrides the `speak()` method to print “Bark”. Create another class `Cat` that overrides it to print “Meow”. Demonstrate polymorphism by calling `speak()` on different objects.
+
+### 8. Encapsulation (Private Variables)
+
+Task: Create a class `BankAccount` with a private variable `__balance`. Add methods `deposit()` and `withdraw()`. Demonstrate how private variables work and how to update them using methods.
+
+### 9. Abstraction using Abstract Class
+
+Task: Create an abstract class `Shape` with an abstract method `area()`. Then create subclasses `Circle` and `Rectangle` that implement the `area()` method. Use objects to calculate area for both shapes.
+
+### 10. Operator Overloading
+
+Task: Create a class `Vector` with `x` and `y` coordinates. Overload the `+` operator so that you can add two `Vector` objects like `v1 + v2` and get a new `Vector` as the result.
+
+---
+
 ## OOP Advantages in Python
 ✔ Code reusability (Inheritance)  
 ✔ Better data security (Encapsulation)  
