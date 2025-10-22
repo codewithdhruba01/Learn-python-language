@@ -144,3 +144,41 @@ RecursionError: maximum recursion depth exceeded
 - Avoid recursion if **memory constraints are a concern**.
 
 ---
+
+## Practice Questions :
+
+### 🔹 **Basic Level**
+
+1. **Factorial of a number** nikalne ke liye recursive function likho.
+   ➤ Example: `factorial(5) = 120`
+
+2. **Fibonacci series** ka nth term recursive function se find karo.
+   ➤ Example: `fibonacci(6) = 8`
+
+3. **Sum of first n natural numbers** recursively nikalne ka program likho.
+   ➤ Example: `sum_n(5) = 15`
+
+4. **Reverse a string** using recursion.
+   ➤ Example: `reverse("hello") = "olleh"`
+
+5. **Find the sum of digits** of a given number using recursion.
+   ➤ Example: `sum_digits(1234) = 10`
+
+---
+
+### 🔹 **Intermediate Level**
+
+6. **Check palindrome string** using recursion.
+   ➤ Example: `"madam" → True`, `"hello" → False`
+
+7. **Find GCD (Greatest Common Divisor)** of two numbers using recursion.
+   ➤ Example: `gcd(48, 18) = 6`
+
+8. **Calculate power of a number** (xⁿ) using recursion.
+   ➤ Example: `power(2, 5) = 32`
+
+9. **Count number of elements in a list** recursively (without using `len()`).
+   ➤ Example: `count([1, 2, 3, 4]) = 4`
+
+10. **Find maximum element in a list** using recursion.
+    ➤ Example: `max_recursive([5, 2, 9, 1, 7]) = 9`
