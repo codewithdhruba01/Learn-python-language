@@ -39,12 +39,18 @@ This repository is part of **My Python learning journey,** created to help begin
 | 19  | Context Managers | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/19_Context_Managers) |
 | 20  | Multithreading & Multiprocessing | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/20_Multithreading_and_Multiprocessing) |
 | 21  | AsyncIO & Asynchronous Programming | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/21_AsyncIO) |
-| 22  | Inprotant Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Inprotant_Question) |
-| 23  | Conditional Statements & Loops Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Questions%20Conditional%20Statements%20%26%20Loops) |
-| 24  | Interview Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Interview-Questions) |
-| 25  | Project | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Project) |
-| 26  | Setup VSCode | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/vscode) |
-| 27  | How to Contribute | [View](https://github.com/codewithdhruba01/Learn-python-language/blob/master/CONTRIBUTING.md) |
+| 22  | Type Hinting & Static Typing | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/22_Type_Hinting_and_Typing) |
+| 23  | Metaclasses & Dynamic Class Creation | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/23_Metaclasses_and_Dynamic_Classes) |
+| 24  | Descriptors & Attribute Management | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/24_Descriptors) |
+| 25  | Memory Management & Performance Optimization | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/25_Memory_Management_and_Optimization) |
+| 26  | Design Patterns in Python | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/26_Design_Patterns_in_Python) |
+| 27  | Regular Expressions (`re` Module) | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/27_Regular_Expressions) |
+| 28  | Inprotant Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Inprotant_Question) |
+| 29  | Conditional Statements & Loops Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Questions%20Conditional%20Statements%20%26%20Loops) |
+| 30  | Interview Questions | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Interview-Questions) |
+| 31  | Project | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/Project) |
+| 32  | Setup VSCode | [View](https://github.com/codewithdhruba01/Learn-python-language/tree/master/vscode) |
+| 33  | How to Contribute | [View](https://github.com/codewithdhruba01/Learn-python-language/blob/master/CONTRIBUTING.md) |
 
 ---
 
